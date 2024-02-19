@@ -2,8 +2,7 @@
 
 ## Create Next.js App
 
-`$ npx create-next-app@latest `
-
+`$ npx create-next-app@latest`
 
 ## YouTube
 
@@ -23,17 +22,32 @@
 14. Layouts
 15. Nested Layouts
 16. Route Group Layout
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
+17. Routing Metadata
+18. Title Metadata
+19. Link Component Navigation
+20. Active Links
+21. Navigating Programmatically
+22. Templates
+23. oading UI
+24. Error Handling
+25. Recovering from Errors
 26.
 27.
 28.
 29.
 30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+

@@ -1,9 +1,26 @@
+import Link from "next/link";
+
 const ProductsList = () => {
+  const productId =100;
+
   return (
-    <div>
+    <>
+      <Link href="/">Home</Link>
       <h1 className="text-5xl">Products List</h1>
-    </div>
-  );
+      <h2>
+        <Link href="/products/1">Product 1</Link>
+      </h2>
+      <h2>
+        <Link href="/products/2"> Product 2</Link>
+      </h2>
+      <h2>
+        <Link href="/products/3" replace>Product 3</Link>
+      </h2>
+      <h2>
+        <Link href={`/products/${productId}`}>Product {productId}</Link>
+      </h2>
+    </>
+  )
 };
 
  export default ProductsList;
