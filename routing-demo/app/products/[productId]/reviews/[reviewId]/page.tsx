@@ -14,11 +14,11 @@ const ReviewDetail = ({
         reviewId: string;
     };
 }) => {
-  const rand = getRandomInt(2);
+  // const rand = getRandomInt(2);
 
-  if (rand === 1) {
-    throw new Error("Error loading review");
-  }
+  // if (rand === 1) {
+  //   throw new Error("Error loading review");
+  // }
 
   if (parseInt(params.reviewId) > 1000) {
     notFound();

@@ -31,13 +31,13 @@
 23. oading UI
 24. Error Handling
 25. Recovering from Errors
-26.
-27.
-28.
-29.
-30.
-31.
-32.
+26. Handling Errors in Nested Routes
+27. Handling Errors in Layouts
+28. Parallel Routes
+29. Unmatched Routes
+30. Conditional Routes
+31. Intercepting Routes
+32. 
 33.
 34.
 35.
