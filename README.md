@@ -33,12 +33,12 @@
 25. Recovering from Errors
 26. Handling Errors in Nested Routes
 27. Handling Errors in Layouts
-28. Parallel Routes
-29. Unmatched Routes
-30. Conditional Routes
-31. Intercepting Routes
-32. 
-33.
+28. Parallel Routes **
+29. Unmatched Routes **
+30. Conditional Routes **
+31. Intercepting Routes **
+32. Parallel Intercepting Routes
+33. Route Handlers
 34.
 35.
 36.
@@ -50,4 +50,8 @@
 42.
 43.
 44.
+45.
+46.
+47.
+48.
 
